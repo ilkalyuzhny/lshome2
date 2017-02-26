@@ -1,0 +1,19 @@
+{
+  "vars": {
+    "@grid-gutter-width": "30px",
+    "@container-large-desktop": "1100px + @grid-gutter-width"
+  },
+  "css": [
+    "grid.less",
+    "forms.less",
+    "responsive-utilities.less",
+    "navs.less",
+    "navbar.less",
+    "breadcrumbs.less",
+    "pagination.less"
+  ],
+  "js": [
+    "tab.js"
+  ],
+  "customizerUrl": "http://getbootstrap.com/customize/?id=413b434edaa7b9181e04b97340e000a4"
+}
